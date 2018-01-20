@@ -14,4 +14,4 @@ function multiply (numbers) {
   return newNumber;
 }
 
-module.exports.multiply = multiply;
+module.exports = multiply;
