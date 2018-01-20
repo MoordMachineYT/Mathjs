@@ -9,4 +9,4 @@ function triple (number) {
   return newNumber;
 }
 
-module.exports.triple = triple;
+module.exports = triple;
