@@ -12,4 +12,4 @@ function factorial (number) {
   return newNumber;
 }
 
-module.exports.factorial = factorial;
+module.exports = factorial;
