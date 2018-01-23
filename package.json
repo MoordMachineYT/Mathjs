@@ -1,6 +1,6 @@
 {
   "name": "mathjs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Math extension",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "keywords": [
     "mathjs"
   ],
-  "author": "",
+  "author": "MoordMachineYT",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MoordMachineYT/Mathjs/issues"
