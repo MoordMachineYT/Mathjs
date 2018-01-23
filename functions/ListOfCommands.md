@@ -1,4 +1,7 @@
 **LIST OF COMMANDS**
+*By MoordMachineYT*
+
+Make sure that you replace mathjs with whatever constant you required the module with.
 
 **DOUBLE:** Doubles the given number. Usage: *mathjs.double(Number)*
 
