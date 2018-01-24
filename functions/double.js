@@ -9,4 +9,4 @@ function double (number) {
   return newNumber;
 }
 
-module.exports.double = double;
+module.exports = double;
